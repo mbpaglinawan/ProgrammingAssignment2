@@ -34,3 +34,4 @@ cacheSolve <- function(x, ...) {			#without cacheSolve, the makeCacheMatrix func
 	  m
 
         ## Return a matrix that is the inverse of 'x'
+}
